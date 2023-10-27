@@ -25,4 +25,3 @@ if check_password(entered_password, password_hash):
     print("Введенный пароль верный")
 else:
     print("Введенный пароль неверный")
-file:///C:/Users/Lev/Desktop/import%20hashlib.py
